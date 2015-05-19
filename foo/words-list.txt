@@ -1,0 +1,10 @@
+LIST OF WORDS FOR EACH  BETABIN-ANOVA   DISTANCE SCORE.
+
+
+ - Words at LARGEST BETABIN-ANOVA score (116.47) - 
+
+a
+
+ - Words at 2ND LARGEST BETABIN-ANOVA score (24.34) - 
+
+regnum

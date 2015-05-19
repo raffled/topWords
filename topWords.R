@@ -39,7 +39,7 @@
 
 ############ Example function calls
 #topWords("/home/raffle/work/publicTest/FOTRnoPoetry.tsv", 2, 2, dataset.name="foo", d.metric=2)
-#topWords("/home/raffle/work/TSVs/example2.tsv", 2, 2, dataset.name="foo", d.metric=2)
+#topWords("merge_transpose_vita.tsv", 2, 2, dataset.name="foo", d.metric=2)
 ###########
 
 currentNode = 1 #global variable to keep track of position while

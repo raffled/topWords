@@ -1,0 +1,12 @@
+Chunks in each clade after cutting into 2 clades:
+
+Elements of Clade 1:
+Vita_00500, Vita_01000, Vita_01500
+Vita_02000, Vita_02500, Vita_03000
+Vita_03500, Vita_04000, Vita_04500
+Vita_05000, Vita_05500, Vita_06000
+Vita_06500, Vita_08000, Vita_08500
+Vita_09000, Vita_09500, Vita_10016
+
+Elements of Clade 2:
+Vita_07000, Vita_07500
