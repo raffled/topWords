@@ -1,0 +1,23 @@
+LIST OF WORDS FOR EACH  KRUSKAL-WALLIS   DISTANCE SCORE.
+
+
+ - Words at LARGEST KRUSKAL-WALLIS score (57.22) - 
+
+celebrandum
+
+ - Words at 2ND LARGEST KRUSKAL-WALLIS score (56.71) - 
+
+festi
+
+ - Words at 3RD LARGEST KRUSKAL-WALLIS score (49.99) - 
+
+azyma, tertiae, agnum, familias, jubetur, quintam, redemptus, vicesimae, 
+paschale
+
+ - Words at 4TH LARGEST KRUSKAL-WALLIS score (49.98) - 
+
+azymorum, quintae, comedetis, confirmata, phase
+
+ - Words at 5TH LARGEST KRUSKAL-WALLIS score (45.97) - 
+
+vespera

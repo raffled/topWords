@@ -1,0 +1,18 @@
+LIST OF WORDS FOR EACH  ABSOLUTE-DISTANCE   DISTANCE SCORE.
+
+
+ - Words at LARGEST ABSOLUTE-DISTANCE score (103.8) - 
+
+scyppend
+
+ - Words at 2ND LARGEST ABSOLUTE-DISTANCE score (28.37) - 
+
+meahte
+
+ - Words at 3RD LARGEST ABSOLUTE-DISTANCE score (27.73) - 
+
+heredon
+
+ - Words at 4TH LARGEST ABSOLUTE-DISTANCE score (16) - 
+
+æþelinge, landa

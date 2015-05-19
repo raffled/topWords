@@ -1,0 +1,14 @@
+Chunks in each clade after cutting into 3 clades:
+
+Elements of Clade 1:
+reykdaela_mod1500 01500, reykdaela_mod1500 03000, reykdaela_mod1500 04500
+reykdaela_mod1500 06000, reykdaela_mod1500 07500, reykdaela_mod1500 09000
+reykdaela_mod1500 10500, reykdaela_mod1500 12000, reykdaela_mod1500 13500
+reykdaela_mod1500 15000, reykdaela_mod1500 16500
+
+Elements of Clade 2:
+reykdaela_mod1500 18000, reykdaela_mod1500 19203, reykdaela_mod1500 20405
+reykdaela_mod1500 23715
+
+Elements of Clade 3:
+reykdaela_mod1500 21833

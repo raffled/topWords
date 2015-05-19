@@ -1,0 +1,22 @@
+LIST OF WORDS FOR EACH  BETABIN-ANOVA   DISTANCE SCORE.
+
+
+ - Words at LARGEST BETABIN-ANOVA score (22.59) - 
+
+and
+
+ - Words at 2ND LARGEST BETABIN-ANOVA score (21.33) - 
+
+þec
+
+ - Words at 3RD LARGEST BETABIN-ANOVA score (18.37) - 
+
+hie
+
+ - Words at 4TH LARGEST BETABIN-ANOVA score (14.31) - 
+
+gode
+
+ - Words at 5TH LARGEST BETABIN-ANOVA score (11.3) - 
+
+wisdom

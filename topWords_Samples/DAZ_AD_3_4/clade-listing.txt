@@ -1,0 +1,12 @@
+Chunks in each clade after cutting into 3 clades:
+
+Elements of Clade 1:
+DAN 0450, DAN 0900, DAN 1350
+
+Elements of Clade 2:
+DAN 1800, DAN 2250, DAN 2700
+AZ 1065
+
+Elements of Clade 3:
+DAN 3150, DAN 3600, DAN 4050
+DAN 4473

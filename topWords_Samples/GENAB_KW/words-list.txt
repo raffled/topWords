@@ -1,0 +1,10 @@
+LIST OF WORDS FOR EACH  KRUSKAL-WALLIS   DISTANCE SCORE.
+
+
+ - Words at LARGEST KRUSKAL-WALLIS score (10) - 
+
+gemearcod
+
+ - Words at 2ND LARGEST KRUSKAL-WALLIS score (9.78) - 
+
+eue, goda, d.ae.d, full, hearra, la.t.es, mihtig, of.ae.tes

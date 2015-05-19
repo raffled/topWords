@@ -1,0 +1,24 @@
+LIST OF WORDS FOR EACH  ABSOLUTE-DISTANCE   DISTANCE SCORE.
+
+
+ - Words at LARGEST ABSOLUTE-DISTANCE score (117.04) - 
+
+meahte
+
+ - Words at 2ND LARGEST ABSOLUTE-DISTANCE score (49.5) - 
+
+byrig, cnihtas, babilonia, gecwædon, gife, hweorfan, hyran, reþe, sægdon, 
+unriht, weras, wig, wihte, wundrum, ærest, feore, modig, sinra
+
+ - Words at 3RD LARGEST ABSOLUTE-DISTANCE score (47.91) - 
+
+gode
+
+ - Words at 4TH LARGEST ABSOLUTE-DISTANCE score (34.79) - 
+
+habban
+
+ - Words at 5TH LARGEST ABSOLUTE-DISTANCE score (24.75) - 
+
+healdan, hean, heriges, þeodne, dreamas, metode, wereda, ebrea, eorlas, golde, 
+cyninge

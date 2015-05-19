@@ -1,0 +1,9 @@
+Chunks in each clade after cutting into 2 clades:
+
+Elements of Clade 1:
+GenAB1500 01500, GenAB1500 07500, GenAB1500 09000
+GenAB1500 10500, GenAB1500 12000, GenAB1500 13500
+GenAB1500 15000, GenAB1500 16880
+
+Elements of Clade 2:
+GenAB1500 03000, GenAB1500 04500, GenAB1500 06000

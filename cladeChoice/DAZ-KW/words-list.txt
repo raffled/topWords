@@ -1,0 +1,22 @@
+LIST OF WORDS FOR EACH  KRUSKAL-WALLIS   DISTANCE SCORE.
+
+
+ - Words at LARGEST KRUSKAL-WALLIS score (8.25) - 
+
+meahte
+
+ - Words at 2ND LARGEST KRUSKAL-WALLIS score (8.1) - 
+
+gode
+
+ - Words at 3RD LARGEST KRUSKAL-WALLIS score (7.48) - 
+
+byrig
+
+ - Words at 4TH LARGEST KRUSKAL-WALLIS score (6.56) - 
+
+cnihtas
+
+ - Words at 5TH LARGEST KRUSKAL-WALLIS score (6.23) - 
+
+þonne

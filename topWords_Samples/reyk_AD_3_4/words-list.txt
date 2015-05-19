@@ -1,0 +1,36 @@
+LIST OF WORDS FOR EACH  ABSOLUTE-DISTANCE   DISTANCE SCORE.
+
+
+ - Words at LARGEST ABSOLUTE-DISTANCE score (37.38) - 
+
+ásbjörn, þitt, fiskilækjarhverfi, leitið, selinu, vopnum, beðið, 
+bíðir, dalinn, gljúfrinu, hopar, héti, leyst, margur, mjaðmárdal, 
+mývatnshverfi, rynnir, ráðs, sannara, seg, selsdyrunum, spotti, allknálega, 
+armvitigur, barst, blauthugaður, borgið, brjósti, brýtur, dalnum, degi, 
+dirfð, dugnað, dvöl, dyranna, eltast, endast, eyfirðinga, eyris, fast, 
+fengjar, fjöldi, fjölmenni, fleira, forsjámaður, fremd, fyr, féið, 
+gerist, gilið, gjaldast, gljúfrin, grænni, hafið, heimkomu, heiti, hests, 
+hjallanum, hjálm, hjálpir, hjálplaus, hlíðinni, hlíðum, hræddur, 
+hræðist, hrísrunn, hugboðið, hverjan, hálfs, hálfu, hélstu, héruðum, 
+hóar, jafnbúnir, játtar, kápu, kápuna, kápunnar, leggi, leist, leit, 
+leyndir, lítil, lítilli, met, mikilmannlega, minnar, munuð, mælir, mætir, 
+mínu, neðan, raunar, rauðahjalli, rjóður, ráðfátt, samir, sauðamaður, 
+sauðum, sel, selið, selsins, sendiför, sendimaður, settist, skaftinu, 
+skaplyndi, skaða, skemmra, skemmri, skiljir, skætingu, skörulegan, skúti, 
+spilla, staðið, stíga, stígur, sæk, sækir, sól, söðulinn, sýnast, 
+tvískipt, tó, undanhaldið, vandræðið, vargfæðanda, vegginn, ver, vesl, 
+veslinu, vildir, vinlausan, viti, viðir, vígaferlinu, vígur, vöðlaheiði, 
+ykkarn, yður, ákveðinni, ákveðnum, árgljúfur, áræði, ódjarfur, 
+óvina, óvinum, öx, öxnadalsheiði, þingreið, þrautgóður, þrengt
+
+ - Words at 2ND LARGEST ABSOLUTE-DISTANCE score (36.38) - 
+
+skúta
+
+ - Words at 3RD LARGEST ABSOLUTE-DISTANCE score (29.06) - 
+
+skútu
+
+ - Words at 4TH LARGEST ABSOLUTE-DISTANCE score (24.96) - 
+
+skyldi
